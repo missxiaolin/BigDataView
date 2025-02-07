@@ -408,23 +408,3 @@ git clone https://github.com/iGaoWei/BigDataView.git
 #### 温馨提示：更多模板陆续更新中
 
 
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="https://gitee.com/iGaoWei/big-data-view/raw/master/preview/wechat-code.png" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/更多内容关注公众号.gif'" width="60%"/>
-<p>
-收集整理不易，如果觉得对你有对您有帮助，您可以点赞评论收藏支持! <br>
-也可以微信扫码上方赞赏码随意支持，最好您可以点右上角 💘Star💘支持,谢谢！～
-</p>
-</div>
-
-
-#### 公众号
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="./preview/更多内容关注公众号.gif" onerror="this.src='https://gitee.com/iGaoWei/big-data-view/raw/master/gif/更多内容关注公众号.gif'"/>
-<p>记录自己折腾不止的人生，留住时光的一抹轨迹 ! 
-关注公众号，每天分享编程开发相关的技术文章、工具资源、精选课程、视频教程、IT资讯、学习资料等。
-</p>
-</div>
-
-[![陌生人/BigDataView](https://gitee.com/iGaoWei/big-data-view/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/iGaoWei/big-data-view)
